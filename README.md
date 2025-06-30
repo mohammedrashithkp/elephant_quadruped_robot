@@ -7,10 +7,10 @@ The quadruped robot which excels at traversing challenging terrains are often ma
 - 📂 [Gait Pattern Analysis & Simulation](docs/Gait_Pattern_Analysis.md)
 
 ## Quick Links
-- [Average Bone Size](anatomy_design/average_bone_size/)
-- [Biomimicked CAD Design](anatomy_design/biomimicked_cad_design/)
-- [ANSYS Analysis](anatomy_design/ansys_analysis/)
-- [Final Design](anatomy_design/final_design/)
-- [MATLAB Simulation](gait_simulation/matlab_simulation/)
-- [ROS2 Packages](gait_simulation/ros2_packages/)
+- [Average Bone Size](anatomy_design/average_bone_size/README.md)
+- [Biomimicked CAD Design](anatomy_design/biomimicked_cad_design/README.md)
+- [ANSYS Analysis](anatomy_design/ansys_analysis/README.md)
+- [Final Design](anatomy_design/final_design/README.md)
+- [MATLAB Simulation](gait_simulation/matlab_simulation/README.md)
+- [ROS2 Packages](gait_simulation/ros2_packages/README.md)
 
